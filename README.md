@@ -7,7 +7,7 @@
 
 ### Set up the environment
 * clone the demo-scene repository form the official conflunet github: `git clone https://github.com/streamreasoning/DEBS-2019.git`
-* go to ksql workshop forlder: `cd kakfka`
+* go to ksql workshop forlder: `cd kafka`
 * run the docker containers: `docker-compose up -d`
 * open the ksql console: `docker-compose exec ksql-cli ksql http://ksql-server:8088`
 
