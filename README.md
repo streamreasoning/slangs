@@ -1,3 +1,7 @@
+## Spark Streaming
+
+### Open the `spark-streaming-sr.html` in the spark streaming folder
+
 ## KSQL ([src](https://docs.confluent.io/current/ksql/docs/tutorials/examples.html))
 
 ### Prerequisites
@@ -7,7 +11,7 @@
 
 ### Set up the environment
 * clone the demo-scene repository form the official conflunet github: `git clone https://github.com/streamreasoning/DEBS-2019.git`
-* go to ksql workshop forlder: `cd kafka`
+* go to ksql workshop forlder: `cd DEBS-2019/kafka`
 * run the docker containers: `docker-compose up -d`
 * open the ksql console: `docker-compose exec ksql-cli ksql http://ksql-server:8088`
 
@@ -143,7 +147,7 @@ CREATE STREAM pageviews_transformed
   PARTITION BY userid;
 ```
 
-Create the `pageviews_enriched` stream <
+Create the `pageviews_enriched` stream
 
 
 ```
