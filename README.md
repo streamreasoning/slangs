@@ -1,18 +1,22 @@
+## Set up the environment
+* check the installation of:
+	* git
+	* docker
+	* docker-compose
+* clone the demo-scene repository form the official confluent github: `git clone https://github.com/streamreasoning/DEBS-2019.git`
+* go to ksql workshop forlder: `cd DEBS-2019/kafka`
+* run the docker containers: `docker-compose up -d`
+
 ## Spark Streaming
 
-### Open the `spark-streaming-sr.html` in the spark streaming folder
+### Preliminaries
+* open your databricks and create a cluster
+* install the library `spark-sql-kafka-0-10_2.12-2.4.3` using maven (follow the [steps](https://docs.databricks.com/user-guide/libraries.html#install-a-library-on-a-cluster))
+* import the notebook
 
 ## KSQL ([src](https://docs.confluent.io/current/ksql/docs/tutorials/examples.html))
 
-### Prerequisites
-* git
-* docker
-* docker compose
-
-### Set up the environment
-* clone the demo-scene repository form the official conflunet github: `git clone https://github.com/streamreasoning/DEBS-2019.git`
-* go to ksql workshop forlder: `cd DEBS-2019/kafka`
-* run the docker containers: `docker-compose up -d`
+### Preliminaries
 * open the ksql console: `docker-compose exec ksql-cli ksql http://ksql-server:8088`
 
 ### Tumbling Windows ([src](https://www.confluent.io/stream-processing-cookbook/ksql-recipes/detecting-analyzing-suspicious-network-activity))
