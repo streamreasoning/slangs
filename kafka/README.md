@@ -26,31 +26,22 @@
 Create the `pageviews` stream from the topic `pageviews` and use `viewtime` as timestamp for the tuples
 
 ```
-CREATE STREAM pageviews
-WITH (KAFKA_TOPIC='pageviews',
-    VALUE_FORMAT='AVRO',
-    TIMESTAMP='viewtime');
+CREATE STREAM pageviews WITH (KAFKA_TOPIC='pageviews', VALUE_FORMAT='AVRO', TIMESTAMP='viewtime');
 ```
 
 Count the number of pageviews per pageid **in the last minute**
 
 ```
-CREATE TABLE pageid_30s AS
-SELECT 
-	pageid, 
-	count(*) AS view_count
-FROM pageviews
-WINDOW TUMBLING (SIZE 30 SECONDS)
+CREATE TABLE pageid_30s AS \
+SELECT pageid, count(*) AS view_count \
+FROM pageviews WINDOW TUMBLING (SIZE 30 SECONDS) \
 GROUP BY pageid;
 ```
 
 Check the content of the new topic
 
 ```
-SELECT 
-	pageid, 
-	view_count 
-FROM pageid_30s;
+SELECT pageid, view_count FROM pageid_30s;
 ```
 
 ### Sliding Windows
