@@ -2,10 +2,10 @@
 
 ## Authors
 
-Riccardo Tommasini - Politecnico di Milano - [site](http://rictomm.me)
-Sherif Sackr - University of Tartu - [site](http://www.cse.unsw.edu.au/~ssakr/)
-Marco Balduini - Politecnico di Milano 
-Emanuele Della Valle- Politecnico di Milano - [site](http://emanueledellavalle.org)
+- Riccardo Tommasini - Politecnico di Milano - [site](http://rictomm.me)
+- Sherif Sackr - University of Tartu - [site](http://www.cse.unsw.edu.au/~ssakr/)
+- Marco Balduini - Politecnico di Milano 
+- Emanuele Della Valle- Politecnico di Milano - [site](http://emanueledellavalle.org)
 
 
 ## Abstract 
@@ -15,4 +15,4 @@ In general, declarative Languages are playing a crucial role in fostering the ad
 
 ## Events
  
- - [DEBS 2019 - Darmstadt](http://debs2019.org/Program/Tutorials.html#Riccardo_Tommasini)
+ - [DEBS 2019 - Darmstadt](http://debs2019.org/Program/Tutorials.html#Riccardo_Tommasini) ([slide](todo) [slide](todo) [slide](todo))
