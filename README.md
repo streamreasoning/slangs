@@ -15,4 +15,4 @@ In general, declarative Languages are playing a crucial role in fostering the ad
 
 ## Events
  
- - [DEBS 2019 - Darmstadt](http://debs2019.org/Program/Tutorials.html#Riccardo_Tommasini) ([slide!](./slides/debs19-part1.pdf) [slide!](./slides/debs19-part2.pdf) [slide!](./slides/debs19-part3.pdf))
+ - [DEBS 2019 - Darmstadt](./events/debs19.md) [conference website](http://debs2019.org/Program/Tutorials.html#Riccardo_Tommasini) ([slide!](./slides/debs19-part1.pdf) [slide!](./slides/debs19-part2.pdf) [slide!](./slides/debs19-part3.pdf)) 
