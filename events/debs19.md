@@ -22,7 +22,7 @@
 
 *Emanuele Della Valle* is an Assistant Professor of Software Project Management at the Department of Electronics and Information of the Politecnico di Milano. In more than 15 years of research, his research interests covered Big Data, Stream Processing, Semantic technologies, Data Science, Web Information Retrieval, and Service Oriented Architectures. He branded the stream reasoning research field. The semantic and syntactic extensions, which he proposed to the SemanticWeb stack (i.e., RDF streams and Continuous SPARQL), are currently on the path towards standardization at a W3C in the RDF Stream Processing community group. His work on Stream Reasoning was applied in analyzing Social Media, Mobile Telecom and IoT data streams in collaboration with Telecom Italia, IBM, Siemens, Oracle, Indra, and Statoil. In 2015, he started up a company (Fluxedo) to commercialize the open source results of Stream Reasoning research. His education activities include lecturing on Web Science, Software Project Management, Semantic Technologies, Stream Processing and Big Data technologies.
 
-[preprint](./assets/preprints/debs19.pdf)
+[preprint](../assets/preprints/debs19.pdf)
 
 ```bibtex
 @inproceedings{DBLP:conf/debs/0001SBV19,
