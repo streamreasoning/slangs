@@ -1,4 +1,4 @@
-# An Outlook to Declarative Languagesfor Big Steaming Data
+# An Outlook to Declarative Languagesfor Big Streaming Data
 
 ## Authors
 
