@@ -1,12 +1,12 @@
-# An Outlook to Declarative Languagesfor Big Streaming Data
+# Declarative Languages for Big Streaming Data
 
-## Authors
+## Authors (over time)
 
 - Riccardo Tommasini - Politecnico di Milano - [site](http://rictomm.me)
 - Sherif Sackr - University of Tartu - [site](http://www.cse.unsw.edu.au/~ssakr/)
 - Marco Balduini - Politecnico di Milano 
 - Emanuele Della Valle- Politecnico di Milano - [site](http://emanueledellavalle.org)
-
+- Hojjat Jafarpour, Confluent 
 
 ## Abstract 
 Data streaming systems have been introduced to tame velocity and enable reactive decision making in the Big Data Context. However, approaching such systems is still too complex due to the paradigm shift they require, i.e., moving from scalable batch processing to continuous analysis and detection. Initially, modern big stream processing systems (e.g., Flink, Spark, Storm) have been lacking the support of declarative languages to express the streaming-based data processing tasks and have been mainly relying on providing low-level APIs for the end-users to implement their tasks. However, recently, this fact has been changing and most of them started to provide SQL-like languages for their end-users. 
