@@ -36,3 +36,33 @@ IBM, Siemens, Oracle, Indra, and Statoil. Emanuele presented several Stream Reas
 *Hojjat Jafarpour* is a Software Engineer and the creator of KSQL at Confluent. Before joining Confluent he has worked at NEC Labs, 
 Informatica, Quantcast and Tidemark on various big data management projects. 
 Hojjiat earned his PhD in computer science from UC Irvine, where he worked on scalable stream processing and publish/subscribe systems.
+
+(preprint)[../assets/preprints/edbt20.pdf]
+
+```
+@inproceedings{DBLP:conf/edbt/0001SVJ20,
+  author    = {Riccardo Tommasini and
+               Sherif Sakr and
+               Emanuele Della Valle and
+               Hojjat Jafarpour},
+  editor    = {Angela Bonifati and
+               Yongluan Zhou and
+               Marcos Antonio Vaz Salles and
+               Alexander B{\"{o}}hm and
+               Dan Olteanu and
+               George H. L. Fletcher and
+               Arijit Khan and
+               Bin Yang},
+  title     = {Declarative Languages for Big Streaming Data},
+  booktitle = {Proceedings of the 23nd International Conference on Extending Database
+               Technology, {EDBT} 2020, Copenhagen, Denmark, March 30 - April 02,
+               2020},
+  pages     = {643--646},
+  publisher = {OpenProceedings.org},
+  year      = {2020},
+  url       = {https://doi.org/10.5441/002/edbt.2020.84},
+  doi       = {10.5441/002/edbt.2020.84},
+  timestamp = {Wed, 25 Mar 2020 15:46:06 +0100},
+  biburl    = {https://dblp.org/rec/conf/edbt/0001SVJ20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}```
