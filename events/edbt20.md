@@ -38,6 +38,8 @@ Informatica, Quantcast and Tidemark on various big data management projects.
 Hojjiat earned his PhD in computer science from UC Irvine, where he worked on scalable stream processing and publish/subscribe systems.
 
 [preprint](../assets/preprints/edbt20.pdf)
+[open proceedings](https://openproceedings.org/2020/conf/edbt/paper_T1.pdf)
+[videp](https://openproceedings.org/2020/conf/edbt/videos/tutorial-big-streaming-data/Tutorial-3.m4v)
 
 ```bibtex
 @inproceedings{DBLP:conf/edbt/0001SVJ20,
