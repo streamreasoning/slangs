@@ -37,9 +37,9 @@ IBM, Siemens, Oracle, Indra, and Statoil. Emanuele presented several Stream Reas
 Informatica, Quantcast and Tidemark on various big data management projects. 
 Hojjiat earned his PhD in computer science from UC Irvine, where he worked on scalable stream processing and publish/subscribe systems.
 
-(preprint)[../assets/preprints/edbt20.pdf]
+[preprint](../assets/preprints/edbt20.pdf)
 
-```
+```bibtex
 @inproceedings{DBLP:conf/edbt/0001SVJ20,
   author    = {Riccardo Tommasini and
                Sherif Sakr and
