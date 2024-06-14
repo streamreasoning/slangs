@@ -2,7 +2,8 @@
 
 ## Authors (over time)
 
-- Riccardo Tommasini - Politecnico di Milano - [site](http://rictomm.me)
+- Riccardo Tommasini - INSA Lyon - [site](http://rictomm.me)
+- Angela Bonfati - Lyon 1
 - Sherif Sackr - University of Tartu - [site](http://www.cse.unsw.edu.au/~ssakr/)
 - Marco Balduini - Politecnico di Milano 
 - Emanuele Della Valle- Politecnico di Milano - [site](http://emanueledellavalle.org)
@@ -17,3 +18,4 @@ In general, declarative Languages are playing a crucial role in fostering the ad
  
  - [DEBS 2019 - Darmstadt](./events/debs19.md) [conference website](http://debs2019.org/Program/Tutorials.html#Riccardo_Tommasini) ([slide!](./slides/debs19-part1.pdf) [slide!](./slides/debs19-part2.pdf) [slide!](./slides/debs19-part3.pdf)) 
  - [EDBT 2020 - Online](./events/edbt20.md) [confrence website](https://diku-dk.github.io/edbticdt2020/?contents=tutorials.html) [slides!](./slides/edbt20.pdf)
+ - [SIGMOD 2024](./slides/Sigmod 2024 Tutorial.pptx.pdf)
